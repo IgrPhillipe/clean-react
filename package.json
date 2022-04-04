@@ -1,0 +1,8 @@
+{
+  "name": "clean-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IgrPhillipe/clean-react.git",
+  "author": "Igor <IgrPhillipe@gmail.com>",
+  "license": "MIT"
+}
