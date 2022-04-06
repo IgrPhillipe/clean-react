@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
     "test": "jest --passWithNoTests",
     "test:watch": "yarn test -- --watch",
     "teste:staged": "yarn test -- --findRelatedTests",
